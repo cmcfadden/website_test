@@ -6,3 +6,7 @@ layout: home
 ---
 
 It's our develop branch!
+
+<script>
+alert("{{ site.env.API_SERVER}}");
+</script>
